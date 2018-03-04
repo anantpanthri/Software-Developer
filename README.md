@@ -1,4 +1,4 @@
-## Hi I am Anant Panthri
+## **Bold**Hi I am Anant Panthri
 
 A passionate microservice/fullstack, software developer
 
